@@ -1,5 +1,5 @@
 # SQL-DataLemure-Interview-Questions
-![image](https://d17jxumzkx1cep.cloudfront.net/image_20_6df2dca30e.webp)
+![image]([https://d17jxumzkx1cep.cloudfront.net/image_20_6df2dca30e.webp](https://github.com/harshali-2001/SQL-DataLemure-Interview-Questions/blob/main/banner-image.png?raw=true))
 
 ![image](https://media.licdn.com/dms/image/D561BAQHGKiT17ZK-1g/company-background_10000/0/1659013972247/datalemur_cover?e=1706832000&v=beta&t=OFTkFtHGjQz8lyJR0nRKHiAchLvEAPfZeuSz93xy26s)
 
