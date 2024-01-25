@@ -1,14 +1,14 @@
-# SQL-DataLemure-Interview-Questions
+# SQL DataLemure Interview Questions
 
 ![image](https://github.com/harshali-2001/SQL-DataLemure-Interview-Questions/blob/main/banner-image.png?raw=true)
 
-I tried to solve the SQL interview questions on the DataLemur website, designed by Nick Singh. This repository contains the solutions to the questions, organized by difficulty level (easy, medium, hard). The table below includes the challenge links and corresponding solutions.
+**I tried to solve the SQL interview questions on the DataLemur website, designed by Nick Singh. This repository contains the solutions to the questions, organized by difficulty level (easy, medium, hard). The table below includes the challenge links and corresponding solutions.**
 
 ***
 
 | Level | ID | Challenge Link | Solution Link |
 |:------:|:------:|------------|:---------:|
-|🟩 **Easy**| 01 | [Histogram of Tweets](https://datalemur.com/questions/sql-histogram-tweets) | [Solution](https://github.com/harshali-2001/SQL-DataLemure-Interview-Questions/blob/main/Histogram%20of%20Tweets.sql)
+|🟩 **Easy**| 01 | [:bar_chart: Histogram of Tweets](https://datalemur.com/questions/sql-histogram-tweets) | [Solution](https://github.com/harshali-2001/SQL-DataLemure-Interview-Questions/blob/main/Histogram%20of%20Tweets.sql)
 |🟩 **Easy**| 02 | [Data Science Skills](https://datalemur.com/questions/matching-skills) | [Solution](https://github.com/harshali-2001/SQL-DataLemure-Interview-Questions/blob/main/Data%20Science%20Skills.sql)
 |🟩 **Easy**| 03 | [Page With No Likes](https://datalemur.com/questions/sql-page-with-no-likes) | [Solution](https://github.com/harshali-2001/SQL-DataLemure-Interview-Questions/blob/main/Page%20With%20No%20Likes.sql)
 |🟩 **Easy** | 04 | [Unfinished Parts](https://datalemur.com/questions/tesla-unfinished-parts) | [Solution](https://github.com/harshali-2001/SQL-DataLemure-Interview-Questions/blob/main/Unfinished%20Parts.sql)
@@ -25,3 +25,12 @@ I tried to solve the SQL interview questions on the DataLemur website, designed 
 |🟩 **Easy**| 15 | [Pharmacy Analytics (Part 3)](https://datalemur.com/questions/total-drugs-sales) | [Solution](https://github.com/harshali-2001/SQL-DataLemure-Interview-Questions/blob/main/Pharmacy%20Analytics%20(Part%203).sql)
 |🟨 **Medium**| 16 | [Pharmacy Analytics (Part 3)](https://datalemur.com/questions/total-drugs-sales) | [Solution](https://github.com/harshali-2001/SQL-DataLemure-Interview-Questions/blob/main/Pharmacy%20Analytics%20(Part%203).sql)
 
+
+## Connect with Me 🌐
+
+If you'd like to learn more about my work, connect with me on the following platforms:
+- [Portfolio](https://harshali-2001.github.io/HarshaliPortfolio/) 📌
+- [GitHub](https://github.com/harshali-2001) 🐙
+- [LinkedIn](https://www.linkedin.com/in/harshalihood/) 📎
+
+Feel free to reach out with any questions or feedback! 📬
