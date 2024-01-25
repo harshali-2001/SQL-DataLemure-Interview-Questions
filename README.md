@@ -1,7 +1,8 @@
 # SQL-DataLemure-Interview-Questions
-![image]([https://d17jxumzkx1cep.cloudfront.net/image_20_6df2dca30e.webp](https://github.com/harshali-2001/SQL-DataLemure-Interview-Questions/blob/main/banner-image.png?raw=true)
 
 ![image](https://github.com/harshali-2001/SQL-DataLemure-Interview-Questions/blob/main/banner-image.png?raw=true)
+
+I tried to solve the SQL interview questions on the DataLemur website, designed by Nick Singh. This repository contains the solutions to the questions, organized by difficulty level (easy, medium, hard). The table below includes the challenge links and corresponding solutions.
 
 ***
 
@@ -22,3 +23,5 @@
 |🟩 **Easy**| 13 | [Pharmacy Analytics (Part 1)](https://datalemur.com/questions/top-profitable-drugs) | [Solution](https://github.com/harshali-2001/SQL-DataLemure-Interview-Questions/blob/main/Pharmacy%20Analytics%20(Part%201).sql)
 |🟩 **Easy**| 14 | [Pharmacy Analytics (Part 2) ](https://datalemur.com/questions/non-profitable-drugs) | [Solution](https://github.com/harshali-2001/SQL-DataLemure-Interview-Questions/blob/main/Pharmacy%20Analytics%20(Part%202)%20.sql)
 |🟩 **Easy**| 15 | [Pharmacy Analytics (Part 3)](https://datalemur.com/questions/total-drugs-sales) | [Solution](https://github.com/harshali-2001/SQL-DataLemure-Interview-Questions/blob/main/Pharmacy%20Analytics%20(Part%203).sql)
+|🟨 **Medium**| 16 | [Pharmacy Analytics (Part 3)](https://datalemur.com/questions/total-drugs-sales) | [Solution](https://github.com/harshali-2001/SQL-DataLemure-Interview-Questions/blob/main/Pharmacy%20Analytics%20(Part%203).sql)
+
