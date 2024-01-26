@@ -23,7 +23,11 @@
 |🟩 **Easy**| 13 | [:pill: Pharmacy Analytics (Part 1)](https://datalemur.com/questions/top-profitable-drugs) | [Solution](https://github.com/harshali-2001/SQL-DataLemure-Interview-Questions/blob/main/Pharmacy%20Analytics%20(Part%201).sql)
 |🟩 **Easy**| 14 | [:pill: Pharmacy Analytics (Part 2) ](https://datalemur.com/questions/non-profitable-drugs) | [Solution](https://github.com/harshali-2001/SQL-DataLemure-Interview-Questions/blob/main/Pharmacy%20Analytics%20(Part%202)%20.sql)
 |🟩 **Easy**| 15 | [:pill: Pharmacy Analytics (Part 3)](https://datalemur.com/questions/total-drugs-sales) | [Solution](https://github.com/harshali-2001/SQL-DataLemure-Interview-Questions/blob/main/Pharmacy%20Analytics%20(Part%203).sql)
-|🟨 **Medium**| 16 | [:thumbsdown: Pharmacy Analytics (Part 3)](https://datalemur.com/questions/total-drugs-sales) | [Solution](https://github.com/harshali-2001/SQL-DataLemure-Interview-Questions/blob/main/Pharmacy%20Analytics%20(Part%203).sql)
+|🟨 **Medium**| 16 | [👥User's Third Transaction](https://datalemur.com/questions/sql-third-transaction) | [Solution](hhttps://github.com/harshali-2001/SQL-DataLemure-Interview-Questions/blob/main/User's%20Third%20Transaction.sql)
+|🟨 **Medium**| 17 | [User's Third Transaction](https://datalemur.com/questions/sql-third-transaction) | [Solution](hhttps://github.com/harshali-2001/SQL-DataLemure-Interview-Questions/blob/main/User's%20Third%20Transaction.sql)
+|🟨 **Medium**| 16 | [User's Third Transaction](https://datalemur.com/questions/sql-third-transaction) | [Solution](hhttps://github.com/harshali-2001/SQL-DataLemure-Interview-Questions/blob/main/User's%20Third%20Transaction.sql)
+|🟨 **Medium**| 16 | [User's Third Transaction](https://datalemur.com/questions/sql-third-transaction) | [Solution](hhttps://github.com/harshali-2001/SQL-DataLemure-Interview-Questions/blob/main/User's%20Third%20Transaction.sql)
+
 
 
 ## Connect with Me 🌐
