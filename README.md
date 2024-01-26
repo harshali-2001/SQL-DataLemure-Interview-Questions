@@ -6,8 +6,8 @@
 
 ***
 
-| Level | ID | Challenge Link | Solution Link |
-|:------:|:------:|------------|:---------:|
+| Challenge Level | ID | Challenge Link | Solution Link |
+|:---------:|:--------:|------------|:-----------:|
 |🟩 **Easy**| 01 | [:bar_chart: Histogram of Tweets](https://datalemur.com/questions/sql-histogram-tweets) | [Solution](https://github.com/harshali-2001/SQL-DataLemure-Interview-Questions/blob/main/Histogram%20of%20Tweets.sql)
 |🟩 **Easy**| 02 | [:chart_with_upwards_trend: Data Science Skills](https://datalemur.com/questions/matching-skills) | [Solution](https://github.com/harshali-2001/SQL-DataLemure-Interview-Questions/blob/main/Data%20Science%20Skills.sql)
 |🟩 **Easy**| 03 | [:thumbsdown: Page With No Likes](https://datalemur.com/questions/sql-page-with-no-likes) | [Solution](https://github.com/harshali-2001/SQL-DataLemure-Interview-Questions/blob/main/Page%20With%20No%20Likes.sql)
