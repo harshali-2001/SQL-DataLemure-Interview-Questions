@@ -24,8 +24,8 @@
 |🟩 **Easy**| 14 | [:pill: Pharmacy Analytics (Part 2) ](https://datalemur.com/questions/non-profitable-drugs) | [Solution](https://github.com/harshali-2001/SQL-DataLemure-Interview-Questions/blob/main/Pharmacy%20Analytics%20(Part%202)%20.sql)
 |🟩 **Easy**| 15 | [:pill: Pharmacy Analytics (Part 3)](https://datalemur.com/questions/total-drugs-sales) | [Solution](https://github.com/harshali-2001/SQL-DataLemure-Interview-Questions/blob/main/Pharmacy%20Analytics%20(Part%203).sql)
 |🟨 **Medium**| 16 | [👥User's Third Transaction](https://datalemur.com/questions/sql-third-transaction) | [Solution](hhttps://github.com/harshali-2001/SQL-DataLemure-Interview-Questions/blob/main/User's%20Third%20Transaction.sql)
-|🟨 **Medium**| 17 | [User's Third Transaction](https://datalemur.com/questions/sql-third-transaction) | [Solution](hhttps://github.com/harshali-2001/SQL-DataLemure-Interview-Questions/blob/main/User's%20Third%20Transaction.sql)
-|🟨 **Medium**| 16 | [User's Third Transaction](https://datalemur.com/questions/sql-third-transaction) | [Solution](hhttps://github.com/harshali-2001/SQL-DataLemure-Interview-Questions/blob/main/User's%20Third%20Transaction.sql)
+|🟨 **Medium**| 17 | [📫Tweets' Rolling Averages](https://datalemur.com/questions/rolling-average-tweets) | [Solution](https://github.com/harshali-2001/SQL-DataLemure-Interview-Questions/blob/main/Tweets'%20Rolling%20Averages.sql)
+|🟨 **Medium**| 18 | [⚡Highest-Grossing Items](https://datalemur.com/questions/sql-highest-grossing) | [Solution](https://github.com/harshali-2001/SQL-DataLemure-Interview-Questions/blob/main/Highest-Grossing%20Items.sql)
 |🟨 **Medium**| 16 | [User's Third Transaction](https://datalemur.com/questions/sql-third-transaction) | [Solution](hhttps://github.com/harshali-2001/SQL-DataLemure-Interview-Questions/blob/main/User's%20Third%20Transaction.sql)
 
 
