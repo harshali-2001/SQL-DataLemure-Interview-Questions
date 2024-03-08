@@ -26,8 +26,8 @@
 |🟨 **Medium**| 16 | [👥User's Third Transaction](https://datalemur.com/questions/sql-third-transaction) | [Solution](hhttps://github.com/harshali-2001/SQL-DataLemure-Interview-Questions/blob/main/User's%20Third%20Transaction.sql)
 |🟨 **Medium**| 17 | [📫Tweets' Rolling Averages](https://datalemur.com/questions/rolling-average-tweets) | [Solution](https://github.com/harshali-2001/SQL-DataLemure-Interview-Questions/blob/main/Tweets'%20Rolling%20Averages.sql)
 |🟨 **Medium**| 18 | [⚡Highest-Grossing Items](https://datalemur.com/questions/sql-highest-grossing) | [Solution](https://github.com/harshali-2001/SQL-DataLemure-Interview-Questions/blob/main/Highest-Grossing%20Items.sql)
-|🟨 **Medium**| 16 | [User's Third Transaction](https://datalemur.com/questions/sql-third-transaction) | [Solution](hhttps://github.com/harshali-2001/SQL-DataLemure-Interview-Questions/blob/main/User's%20Third%20Transaction.sql)
-
+|🟨 **Medium**| 19 | [User's Third Transaction](https://datalemur.com/questions/sql-third-transaction) | [Solution](hhttps://github.com/harshali-2001/SQL-DataLemure-Interview-Questions/blob/main/User's%20Third%20Transaction.sql)
+🟨 **Medium**| 20 | [🌥️Supercloud Customer](https://datalemur.com/questions/supercloud-customer) | [Solution](https://github.com/harshali-2001/SQL-DataLemure-Interview-Questions/blob/main/Supercloud%20Customer.sql)
 
 
 ## Connect with Me 🌐
